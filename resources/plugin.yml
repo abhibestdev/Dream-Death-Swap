@@ -1,0 +1,5 @@
+name: DeathSwap
+author: abHi
+version: 1.0
+main: me.abhi.deathswap.DeathSwapPlugin
+description: "Death Swap inspired by Dream"
